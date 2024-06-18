@@ -1,0 +1,38 @@
+body {
+  background-color: #3c4156;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+.mainDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 360px;
+  height: 100px;
+  background-color: #1a2529;
+  border: 2px solid #eee86b;
+  border-radius: 10px;
+}
+
+.mainDiv p {
+  color: #f95f89;
+  font-size: 36px;
+  font-family: "Playwrite DE Grund", cursive;
+}
+
+.container {
+  height: 80vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.timeOptions h4 {
+  display: flex;
+  justify-content: center;
+  color: #eee86b;
+  font-size: 22px;
+  font-family: "Playwrite DE Grund", cursive;
+}
